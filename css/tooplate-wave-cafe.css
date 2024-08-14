@@ -84,8 +84,10 @@ h2 { margin-top: 0; }
 .tm-site-logo { margin-right: 30px; }
 
 .tm-site-name {
+    margin-right: 20px;
     font-size: 2.2rem;
-    font-style: italic;    
+    font-style: italic;
+    text-align: center; 
 }
 
 .tm-left-inner {
